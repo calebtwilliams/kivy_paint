@@ -1,4 +1,5 @@
 # kivy_paint
 A simple paint program in Kivy.
 
-From: https://github.com/calebtwilliams/kivy_paint
+kivy_paint comes from: https://kivy.org/docs/tutorials/firstwidget.html
+Download this code from: https://github.com/calebtwilliams/kivy_paint
